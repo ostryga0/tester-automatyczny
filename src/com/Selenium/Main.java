@@ -11,6 +11,7 @@ public class Main {
 
 interface Zwierze {
     String dajGlos();
+    //nowy dopisek
 }
 
 class Kot implements Zwierze {
